@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Lost PLA Metal Casting of 3D-Printed Parts: Trial 1"
+date:   2020-05-02 07:46:26 -0600
+categories: projects wip
+tags: [metal-casting, investment-casting, lost-pla, lost-wax, kiln, furnace, 3D-printing]
+---
+
+Investment casting is a metal casting method suitable for producing parts with fine details.
+It is commonly used for producing jewelry, but may also be used to produce parts that cannot be made through sand casting, mainly due to the part's geometry.
+The overall process for investment casting involves taking a *positive* mold and *investing* (synonymous with surrounding, enveloping) it in plaster, after which the positive mold is melted / burned away to leave a *negative* mold.
+Molten metal is poured into the plaster mold and allowed to cool, after which the mold is destroyed to retrieve the part.
+
+A material that can be completely melted or burned away is ideal for the positive mold.
+If wax is used, this casting method can also be called the lost wax method because, aptly, the wax mold is lost in the process.
+I am not a fan of this.
+A lot of manual effort would go into the wax mold's creation through sculpting, carving, smoothing, etc, and this effort would have to be repeated if one wishes to produce multiple copies of the part.
+This does not lend itself to exact copies and control over part features.
+Ideally, I would rather minimize the effort that goes into the process while maintaining precise control of the part's structure.
+This is where 3D modeling and 3D printing comes into play.
+First, I only have to design the part once using 3D modeling software (I like OnShape or FreeCAD).
+Second, through parametric modeling, precise control over the part's structure can be maintained.
+Third, the model can be physically rendered using a 3D printer, thus alleviating me from having to put effort towards sculpting, carving, etc.
+And finally, if multiple copies are needed, the 3D printer can just re-print the part using the same specifications of the first part.
+And as for the material that the positive mold is made out?
+Polylactic Acid, or PLA, plastic.
+Thus, we call this process the lost PLA method.
+
+Why PLA and not some other plastic filament material?
+I don't exactly know yet.
+One of these days, I will look into it.
+
+
+## 3D Modeling and Printing
+
+
+
+## Preparing the Plaster Mold
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+
+## Casting the Molten Metal
+
+
+## Post-Processing: Finishing and Machining
+
+## Lessons Learned and Next Steps
+
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
